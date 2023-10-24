@@ -13,7 +13,7 @@ public class PracticaFor2 {
 		int suma = 0; 
 		
 		for (int i = 1; i <= num1; i++) {
-			if (i%2 == 0) {	
+			if (i % 2 == 0) {	
 				suma = suma + i;
 			}		
 		}
