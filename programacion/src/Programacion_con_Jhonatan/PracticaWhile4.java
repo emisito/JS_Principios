@@ -1,7 +1,7 @@
 package Programacion_con_Jhonatan;
 import java.util.Random;
 import java.util.Scanner;
-
+/* En este programa tienes que adivinar el numero aleatorio*/
 public class PracticaWhile4 {
 
 	public static void main(String[] args) {
