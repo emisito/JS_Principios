@@ -1,14 +1,9 @@
 package JavaProjectComentarios;
-import java.util.Scanner;
 
-//usando un bucle while quiero que recorra los 10.000 primeros numeros y caudno detectemos
-// un primo numero, se imprima por pantalla, ademas imprimir que posicion nº primo es
-
-
-/*
- * Emanuel Hosu ejercico de numeros primos
+/**
+ * Emanuel Hosu, practica de primos
+ * @param args
  */
-
 public class PracticandoDebbuger {
 
 	public static void main(String[] args) {
