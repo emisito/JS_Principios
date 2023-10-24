@@ -5,6 +5,10 @@ import java.util.Scanner;
 // un primo numero, se imprima por pantalla, ademas imprimir que posicion nº primo es
 
 
+/*
+ * Emanuel Hosu ejercico de numeros primos
+ */
+
 public class PracticandoDebbuger {
 
 	public static void main(String[] args) {
