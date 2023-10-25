@@ -20,11 +20,14 @@ public class PracticaSwich3 {
 		//Tasa de cambio
 		
 		double tasa = 1.06;
+		double tasa2 = 0.95;
 		
 		if (respuesta == 's') {
 			switch (moneda){
 				case 'e':
 					System.out.println("La cantidad de " + num1 + " € en dolares seria de " + (num1 * tasa) + "$");
+				case 'd':
+					System.out.println("La cantidad de " + num1 + " $ en dolares seria de " + (num1 * tasa2) + "€");
 			}
 		}
 
