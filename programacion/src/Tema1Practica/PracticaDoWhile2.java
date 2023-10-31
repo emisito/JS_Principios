@@ -9,12 +9,15 @@ public class PracticaDoWhile2 {
 		Scanner scn = new Scanner (System.in);
 		System.out.print("Ingresa un número");
 		int num1 = scn.nextInt();
-		
-		int
+		int i = 1;
 		
 		do {
+			if (i % 2 == 0) {
+				System.out.println(num1 + " + " + i + " = "  + (num1 + i));
+			}
 			
-		}
+			i++;
+		} while (i <= num1);
 	}
 
 }
