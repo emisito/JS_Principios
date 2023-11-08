@@ -15,7 +15,7 @@ public class pruebaexamen {
 		int resultado = 0;
 		System.out.print("El número " + num1 + " elevado a " + potencia);
 		
-		for(int i = 1; i<= potencia; i++) {
+		for(int i = 2; i<= potencia; i++) {
 			num1 = i * num1;
 		}
 		System.out.print(" eS igual a " + num1);
