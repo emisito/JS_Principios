@@ -1,7 +1,10 @@
 package PracticasMetodos;
 
 import java.util.Scanner;
-
+/**
+ * @author Emi
+ * Ayayayay, que la estamos liando
+ */
 public class practicaMetodos1 {
 	
 	public static void main(String[] args) {

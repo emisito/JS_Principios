@@ -1,5 +1,8 @@
 package Programacion_con_Jhonatan;
-
+/**
+ * @author Emi
+ * Ayayayay, que la estamos liando
+ */
 import java.util.Scanner;
 
 public class PracticaDoWhile2 {

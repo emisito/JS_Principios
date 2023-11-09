@@ -1,7 +1,10 @@
 package Programacion_con_Jhonatan;
 
 import java.util.Scanner;
-
+/**
+ * @author Emi
+ * Ayayayay, que la estamos liando
+ */
 public class PracticaFor4 {
 
 	public static void main(String[] args) {

@@ -1,7 +1,10 @@
 package buclesaAnidados;
 
 import java.util.Scanner;
-
+/**
+ * @author Emi
+ * Ayayayay, que la estamos liando
+ */
 public class Practicabucles4 {
 
 	public static void main(String[] args) {

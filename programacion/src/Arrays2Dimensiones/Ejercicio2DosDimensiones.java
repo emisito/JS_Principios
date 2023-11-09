@@ -1,5 +1,8 @@
 package Arrays2Dimensiones;
-
+/**
+ * @author Emi
+ * Ayayayay, que la estamos liando
+ */
 public class Ejercicio2DosDimensiones {
 
 	public static void main(String[] args) {

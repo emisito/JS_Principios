@@ -1,7 +1,10 @@
 package Ejercicio1enum;
 
 import java.util.Scanner;
-
+/**
+ * @author Emi
+ * Ayayayay, que la estamos liando
+ */
 public class Ejercicio2Enum {
 
 	public enum TiposVehiculos {

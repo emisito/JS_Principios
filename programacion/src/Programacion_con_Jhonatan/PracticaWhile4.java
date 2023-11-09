@@ -3,7 +3,10 @@ import java.util.Random;
 import java.util.Scanner;
 /* En este programa tienes que adivinar el numero aleatorio*/
 public class PracticaWhile4 {
-
+	/**
+	 * @author Emi
+	 * Ayayayay, que la estamos liando
+	 */
 	public static void main(String[] args) {
 		
 		Random random = new Random();
